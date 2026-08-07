@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support — Dueline</title>
+  <meta name="description" content="Get help with Dueline. Contact support, read frequently asked questions about bills, reminders, iCloud sync and privacy." />
+  <meta name="theme-color" content="#13151E" />
+  <link rel="icon" type="image/png" href="assets/icon-180.png" />
+  <link rel="apple-touch-icon" href="assets/icon-180.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="wrap nav">
+      <a class="brand" href="index.html"><img src="assets/icon.png" alt="Dueline icon" /> Dueline</a>
+      <nav class="nav-links" id="navLinks">
+        <a href="index.html#features">Features</a>
+        <a href="index.html#screens">Screens</a>
+        <a href="privacy.html">Privacy</a>
+        <a href="index.html#download" class="cta">Get the app</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <section class="page-hero">
+    <div class="wrap">
+      <span class="eyebrow on-dark">We’re here to help</span>
+      <h1>Support</h1>
+      <p>Questions, feedback or a bug to report? Reach out — you’ll hear back from a real person.</p>
+    </div>
+  </section>
+
+  <section class="doc">
+    <div class="wrap">
+      <div class="support-grid">
+        <div class="support-card">
+          <div class="chip" style="background:var(--c-purple)">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><rect x="3" y="5" width="18" height="14" rx="3"/><path d="M4 7l8 6 8-6"/></svg>
+          </div>
+          <h3>Email support</h3>
+          <p>The fastest way to get help. Tell us what’s happening and, if it’s a bug, what you were doing when it occurred.</p>
+          <a class="link" href="mailto:duelinehelp@outlook.com?subject=Dueline%20Support">duelinehelp@outlook.com →</a>
+        </div>
+        <div class="support-card">
+          <div class="chip" style="background:var(--c-green)">
+            <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="M12 2l2.4 4.9 5.4.8-3.9 3.8.9 5.4-4.8-2.5-4.8 2.5.9-5.4L4.2 7.7l5.4-.8z"/></svg>
+          </div>
+          <h3>Feedback &amp; ideas</h3>
+          <p>Dueline gets better with your input. Have a feature request or an idea? We'd genuinely love to hear it.</p>
+          <a class="link" href="mailto:duelinehelp@outlook.com?subject=Dueline%20Feedback">Share your feedback →</a>
+        </div>
+      </div>
+
+      <div class="faq">
+        <h2 style="margin-bottom:20px;">Frequently asked questions</h2>
+
+        <details open>
+          <summary>Is my financial data private?</summary>
+          <p>Yes. Dueline stores everything on your device and, if you use iCloud, in your own private iCloud account. There are no accounts, no ads, no analytics and no third-party tracking. See the <a href="privacy.html" style="color:#6b5a00;font-weight:600;">privacy policy</a> for details.</p>
+        </details>
+
+        <details>
+          <summary>How does iCloud sync work?</summary>
+          <p>When you're signed in to iCloud, Dueline automatically backs up and syncs your data to your private iCloud database, so it restores on a new device or after reinstalling. If you're not signed in, the app works fully offline and keeps data only on that device.</p>
+        </details>
+
+        <details>
+          <summary>Will I get reminders before bills are due?</summary>
+          <p>Yes. With your permission, Dueline schedules local notifications to remind you before each bill's due date. These reminders are generated entirely on your device.</p>
+        </details>
+
+        <details>
+          <summary>Can I track recurring bills and income?</summary>
+          <p>Absolutely. Bills and income can be set to repeat on a schedule, so you enter them once and Dueline keeps the upcoming occurrences up to date for you.</p>
+        </details>
+
+        <details>
+          <summary>How do I delete my data?</summary>
+          <p>Deleting an item in the app removes it. Deleting the app removes its local data from your device. To remove synced data, delete the app’s data from your iCloud storage settings on your device.</p>
+        </details>
+
+        <details>
+          <summary>Which devices are supported?</summary>
+          <p>Dueline is built for iPhone. Your data syncs across your devices through your own iCloud account.</p>
+        </details>
+      </div>
+    </div>
+  </section>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <div class="foot-grid">
+        <div class="foot-brand">
+          <a class="brand" href="index.html"><img src="assets/icon.png" alt="" /> Dueline</a>
+          <p>A private bill, income and account tracker for iPhone. Built so your financial data stays with you.</p>
+        </div>
+        <div class="foot-cols">
+          <div class="foot-col">
+            <h4>Product</h4>
+            <a href="index.html#features">Features</a>
+            <a href="index.html#screens">Screens</a>
+            <a href="index.html#download">Get the app</a>
+          </div>
+          <div class="foot-col">
+            <h4>Company</h4>
+            <a href="support.html">Support</a>
+            <a href="privacy.html">Privacy</a>
+            <a href="mailto:duelinehelp@outlook.com">Contact</a>
+          </div>
+        </div>
+      </div>
+      <div class="foot-bottom">
+        <span>© 2026 Dueline. All rights reserved.</span>
+        <span>Made with care for your finances.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const t = document.getElementById('navToggle');
+    const l = document.getElementById('navLinks');
+    t && t.addEventListener('click', () => l.classList.toggle('open'));
+  </script>
+</body>
+</html>

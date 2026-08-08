@@ -8,7 +8,7 @@
   **Dueline keeps every bill, paycheck, and account balance in one calm place —
   with reminders before anything is due. All on your iPhone, all private.**
 
-  [**🌐 Visit the website**](tempURL) &nbsp;·&nbsp; [**📲 Download on the App Store**](#-download) &nbsp;·&nbsp; [**🔒 Privacy**](tempURL/privacy)
+  [**🌐 Visit the website**](https://dueline.vercel.app) &nbsp;·&nbsp; [**📲 Download on the App Store**](#-download) &nbsp;·&nbsp; [**🔒 Privacy**](https://dueline.vercel.app/privacy.html)
 
 </div>
 
@@ -69,7 +69,7 @@ developer or any third party.
 
 The Dueline marketing site is deployed on **Vercel**:
 
-**👉 tempURL**
+**👉 https://dueline.vercel.app**
 
 ---
 
@@ -90,7 +90,7 @@ The Dueline marketing site is deployed on **Vercel**:
 
 Dueline does not collect, sell, share, or transmit personal data to the
 developer or any third party. There are no analytics, ads, tracking SDKs, or user
-accounts. Read the full policy in [**🔒 Privacy**](tempURL/privacy).
+accounts. Read the full policy in [**🔒 Privacy**](https://dueline.vercel.app/privacy.html).
 
 <div align="center">
 

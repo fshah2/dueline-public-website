@@ -8,7 +8,7 @@
   **Dueline keeps every bill, paycheck, and account balance in one calm place —
   with reminders before anything is due. All on your iPhone, all private.**
 
-  [**🌐 Visit the website**](https://dueline.vercel.app) &nbsp;·&nbsp; [**📲 Download on the App Store**](#-download) &nbsp;·&nbsp; [**🔒 Privacy**](https://dueline.vercel.app/privacy.html)
+  [**🌐 Visit the website**](https://dueline.vercel.app) &nbsp;·&nbsp; [**📲 Download on the App Store**](https://apps.apple.com/us/app/dueline-bill-planner/id6790514982) &nbsp;·&nbsp; [**🔒 Privacy**](https://dueline.vercel.app/privacy.html)
 
 </div>
 
@@ -77,10 +77,9 @@ The Dueline marketing site is deployed on **Vercel**:
 
 <div align="center">
 
-**Coming soon to the App Store.**
+**Available now on the App Store.**
 
-<!-- Replace # with the App Store URL once the app is live -->
-[**Download on the App Store →**](#)
+**👉 https://apps.apple.com/us/app/dueline-bill-planner/id6790514982**
 
 </div>
 
